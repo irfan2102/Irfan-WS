@@ -1,0 +1,6 @@
+{
+  "id": 101,
+  "name": "Sample Record",
+  "type": "MockData",
+  "description": "This is a static mock dataset returned by the mock API."
+}

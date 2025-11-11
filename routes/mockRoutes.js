@@ -3,6 +3,7 @@ const express = require('express');
 const router = express.Router();
 const exampleData = require('../data/example.json');
 const exampleData2 = require('../data/Courriers.json');
+const exampleData3 = require('../data/output.json');
 
 router.get('/mock', (req, res) => {
   res.json({
@@ -24,7 +25,7 @@ router.get('/mock/:id', (req, res) => {
   res.json({
     status: 'OK',
     message: `Fetched record with ID: ${req.params.id}`,
-    data: exampleData
+    data: exampleData3
   });
 });
 

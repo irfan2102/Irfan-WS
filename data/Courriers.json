@@ -1,0 +1,74 @@
+{
+    "includedElements": [
+        {
+            "id": "COU-2025-001",
+            "name": "Attestation d'assurance habitation",
+            "CreatedDate": "2025-11-10T14:25:00Z",
+            "Contrat": "HAB2025001234",
+            "Sinistre": ""
+        },
+        {
+            "id": "COU-2025-002",
+            "name": "Avis d'échéance annuelle",
+            "CreatedDate": "2025-11-05T09:15:00Z",
+            "Contrat": "AUTO2024567890",
+            "Sinistre": ""
+        },
+        {
+            "id": "COU-2025-003",
+            "name": "Déclaration de sinistre automobile",
+            "CreatedDate": "2025-11-08T16:45:00Z",
+            "Contrat": "AUTO2024567890",
+            "Sinistre": "SIN2025004567"
+        },
+        {
+            "id": "COU-2025-004",
+            "name": "Relevé d'information assurance",
+            "CreatedDate": "2025-10-28T11:30:00Z",
+            "Contrat": "AUTO2023445678",
+            "Sinistre": ""
+        },
+        {
+            "id": "COU-2025-005",
+            "name": "Courrier de résiliation",
+            "CreatedDate": "2025-11-01T08:00:00Z",
+            "Contrat": "HAB2020998877",
+            "Sinistre": ""
+        },
+        {
+            "id": "COU-2025-006",
+            "name": "Expertise sinistre dégât des eaux",
+            "CreatedDate": "2025-11-09T13:20:00Z",
+            "Contrat": "",
+            "Sinistre": ""
+        },
+        {
+            "id": "COU-2025-007",
+            "name": "Modification conditions contrat",
+            "CreatedDate": "2025-10-15T10:10:00Z",
+            "Contrat": "AUTO2024567890",
+            "Sinistre": ""
+        },
+        {
+            "id": "COU-2025-008",
+            "name": "Demande indemnisation vol",
+            "CreatedDate": "2025-11-11T07:55:00Z",
+            "Contrat": "CLI2025887766",
+            "Sinistre": "SIN2025006789"
+        },
+        {
+            "id": "COU-2025-009",
+            "name": "Avenant contrat garanties complémentaires",
+            "CreatedDate": "2025-10-22T15:40:00Z",
+            "Contrat": "HAB2023776655",
+            "Sinistre": ""
+        },
+        {
+            "id": "COU-2025-010",
+            "name": "Rapport d'expertise incendie",
+            "CreatedDate": "2025-11-07T12:05:00Z",
+            "Contrat": "SUS2025112233",
+            "Sinistre": "SIN2025003456"
+        }
+    ]
+}

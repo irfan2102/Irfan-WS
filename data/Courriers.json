@@ -2,73 +2,103 @@
     "includedElements": [
         {
             "id": "COU-2025-001",
-            "name": "Attestation d'assurance habitation",
-            "CreatedDate": "10-11-2025",
-            "Contrat": "HAB2025001234",
-            "Sinistre": ""
+            "name": "Courrier de résiliation",
+            "CreatedDate": "15/01/2024",
+            "Contrat": "HAB2020998877",
+            "Sinistre": "",
+            "NomClient": "Dupont Jean",
+            "NumeroClient": "012345",
+            "NumeroCourrier": "1000001"
         },
         {
             "id": "COU-2025-002",
-            "name": "Avis d'échéance annuelle",
-            "CreatedDate": "05-11-2025",
+            "name": "Modification conditions contrat",
+            "CreatedDate": "22/03/2024",
             "Contrat": "AUTO2024567890",
-            "Sinistre": ""
+            "Sinistre": "",
+            "NomClient": "Martin Sophie",
+            "NumeroClient": "023456",
+            "NumeroCourrier": "1000002"
         },
         {
             "id": "COU-2025-003",
-            "name": "Déclaration de sinistre automobile",
-            "CreatedDate": "08-11-2025",
+            "name": "Avis d'échéance annuelle",
+            "CreatedDate": "08/05/2024",
             "Contrat": "AUTO2024567890",
-            "Sinistre": "SIN2025004567"
+            "Sinistre": "",
+            "NomClient": "Martin Sophie",
+            "NumeroClient": "023456",
+            "NumeroCourrier": "1000003"
         },
         {
             "id": "COU-2025-004",
             "name": "Relevé d'information assurance",
-            "CreatedDate": "28-10-2025",
+            "CreatedDate": "17/07/2024",
             "Contrat": "AUTO2023445678",
-            "Sinistre": ""
+            "Sinistre": "",
+            "NomClient": "Bernard Michel",
+            "NumeroClient": "034567",
+            "NumeroCourrier": "1000004"
         },
         {
             "id": "COU-2025-005",
-            "name": "Courrier de résiliation",
-            "CreatedDate": "01-11-2025",
-            "Contrat": "HAB2020998877",
-            "Sinistre": ""
+            "name": "Avenant contrat garanties complémentaires",
+            "CreatedDate": "03/09/2024",
+            "Contrat": "HAB2023776655",
+            "Sinistre": "",
+            "NomClient": "Leclerc Marie",
+            "NumeroClient": "045678",
+            "NumeroCourrier": "1000005"
         },
         {
             "id": "COU-2025-006",
-            "name": "Expertise sinistre dégât des eaux",
-            "CreatedDate": "09-11-2025",
-            "Contrat": "",
-            "Sinistre": ""
+            "name": "Rapport d'expertise incendie",
+            "CreatedDate": "28/10/2024",
+            "Contrat": "SUS2025112233",
+            "Sinistre": "SIN2025003456",
+            "NomClient": "Rousseau Pierre",
+            "NumeroClient": "056789",
+            "NumeroCourrier": "1000006"
         },
         {
             "id": "COU-2025-007",
-            "name": "Modification conditions contrat",
-            "CreatedDate": "15-10-2025",
-            "Contrat": "AUTO2024567890",
-            "Sinistre": ""
+            "name": "Expertise sinistre dégât des eaux",
+            "CreatedDate": "12/12/2024",
+            "Contrat": "",
+            "Sinistre": "",
+            "NomClient": "Moreau Claire",
+            "NumeroClient": "067890",
+            "NumeroCourrier": "1000007"
         },
         {
             "id": "COU-2025-008",
-            "name": "Demande indemnisation vol",
-            "CreatedDate": "11-11-2025",
-            "Contrat": "CLI2025887766",
-            "Sinistre": "SIN2025006789"
+            "name": "Attestation d'assurance habitation",
+            "CreatedDate": "05/02/2025",
+            "Contrat": "HAB2025001234",
+            "Sinistre": "",
+            "NomClient": "Petit Luc",
+            "NumeroClient": "078901",
+            "NumeroCourrier": "1000008"
         },
         {
             "id": "COU-2025-009",
-            "name": "Avenant contrat garanties complémentaires",
-            "CreatedDate": "22-10-2025",
-            "Contrat": "HAB2023776655",
-            "Sinistre": ""
+            "name": "Déclaration de sinistre automobile",
+            "CreatedDate": "19/06/2025",
+            "Contrat": "AUTO2024567890",
+            "Sinistre": "SIN2025004567",
+            "NomClient": "Martin Sophie",
+            "NumeroClient": "023456",
+            "NumeroCourrier": "1000009"
         },
         {
             "id": "COU-2025-010",
-            "name": "Rapport d'expertise incendie",
-            "CreatedDate": "07-11-2025",
-            "Contrat": "SUS2025112233",
-            "Sinistre": "SIN2025003456"
+            "name": "Demande indemnisation vol",
+            "CreatedDate": "11/11/2025",
+            "Contrat": "CLI2025887766",
+            "Sinistre": "SIN2025006789",
+            "NomClient": "Dubois Anne",
+            "NumeroClient": "089012",
+            "NumeroCourrier": "1000010"
         }
     ]
 }
